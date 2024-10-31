@@ -1,0 +1,18 @@
+:root {
+  background: rgba(240, 220, 180, 0.7);
+}
+
+button {
+  background: rgba(240, 220, 180, 0.7);
+  border: 1px solid rgba(240, 220, 180, 0.7);
+  color: rgb(131, 91, 57);
+  border-radius: 12px;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  background-color: rgba(230, 200, 160, 0.7);
+}
